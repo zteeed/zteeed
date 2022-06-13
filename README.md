@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 
 ### A little more about me...  
 
-<!--
-- 🔭 I’m currently working on [...](...)
--->
+- 🔭 I’m currently working on an API written in Go for sending and receiving SMS from an Android phone through ADB 📱
 - 📫 How to reach me: **aurelien@duboc.xyz**
 - ⚡ Website: [https://www.duboc.xyz](https://www.duboc.xyz)
 
