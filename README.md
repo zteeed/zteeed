@@ -63,6 +63,7 @@ Here is my favorite (unordered) tech stack to build stuff, including DevOps, Sec
 <img alt="Dell C6100" src="https://img.shields.io/badge/-Dell C6100-007DB8?style=flat&logo=Dell&logoColor=white" />
 <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=Proxmox&logoColor=white" />
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
+
 <img alt="Go" src="https://img.shields.io/badge/-Go-79D4FD?style=flat&logo=go&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white"/>
@@ -82,18 +83,16 @@ Here is my favorite (unordered) tech stack to build stuff, including DevOps, Sec
 ### Stay connected 🤝
 
 <div>
-<a style="padding: 5px" href="https://twitter.com/zteeed_">
+<a style="padding: 10px" href="https://twitter.com/zteeed_">
 <img src="./social-icons/twitter.png" height=45 weight=45>
 </a>
-<a style="padding: 5px" href="https://github.com/zteeed">
+<a style="padding: 10px" href="https://github.com/zteeed">
 <img src="./social-icons/github.png" height=45 weight=45>
 </a>
-<a style="padding: 5px" href="https://www.linkedin.com/in/aurelien-duboc/">
+<a style="padding: 10px" href="https://www.linkedin.com/in/aurelien-duboc/">
 <img src="./social-icons/linkedin.png" height=45 weight=45>
 </a>
-<a style="padding: 5px" href="https://discordapp.com/users/zTeeed#2835">
+<a style="padding: 10px" href="https://discordapp.com/users/zTeeed#2835">
 <img src="./social-icons/discord.png" height=45 weight=45>
 </a>
-
-
 </div>
