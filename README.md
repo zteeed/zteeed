@@ -56,7 +56,7 @@ Here is my favorite (unordered) tech stack to build stuff, including DevOps, Sec
 <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 <img alt="Gitlab CI" src="https://img.shields.io/badge/-Gitlab CI-FC6D26?style=flat&logo=Gitlab&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-<br />
+
 <img alt="Google Cloud" src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat&logo=Google Cloud&logoColor=white" />
 <img alt="OVH" src="https://img.shields.io/badge/-OVH-123F6D?style=flat&logo=OVH&logoColor=white" />
 <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=Cisco&logoColor=white" />
