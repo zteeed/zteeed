@@ -63,13 +63,6 @@ Here is my favorite (unordered) tech stack to build stuff, including DevOps, Sec
 <img alt="Dell C6100" src="https://img.shields.io/badge/-Dell C6100-007DB8?style=flat&logo=Dell&logoColor=white" />
 <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=Proxmox&logoColor=white" />
 <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
-<img alt="AWS Lambda" src="https://img.shields.io/badge/-AWS Lambda-FF9900?style=flat&logo=AWS Lambda&logoColor=white" />
-<img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white" />
-<img alt="Amazon DynamoDB" src="https://img.shields.io/badge/-Amazon DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white" />
-<img alt="Amazon EC2" src="https://img.shields.io/badge/-Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />
-<img alt="Amazon ECS" src="https://img.shields.io/badge/-Amazon ECS-FF9900?style=flat&logo=Amazon ECS&logoColor=white" />
-<img alt="Amazon EKS" src="https://img.shields.io/badge/-Amazon EKS-FF9900?style=flat&logo=Amazon EKS&logoColor=white" />
-<br />
 <img alt="Go" src="https://img.shields.io/badge/-Go-79D4FD?style=flat&logo=go&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white"/>
