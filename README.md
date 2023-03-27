@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <img align='right' src="python.gif" width="170">
-<h1 align="center">Hi 👋, I'm Aurélien 💻 🐧</h1>
+<h1 align="center">Hi 👋, I'm Aurélien 💻 🐧 🏓</h1>
 <h3 align="center">Cloud Engineer - DevOps/SRE</h3>
 
 <!--
