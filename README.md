@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **aurelien@duboc.xyz**
 - ⚡ Website: [https://www.duboc.xyz](https://www.duboc.xyz)
 - 🚩 Services: [https://status.duboc.xyz/status/public](https://status.duboc.xyz/status/public)
+- 📱 More apps: [https://github.com/SuperPingPong](https://github.com/SuperPingPong)
 - 🔭 I’m currently working on an API written in Go for sending and receiving SMS from an Android phone through ADB 📱
 
 ### Tech Stack 👨‍💻
