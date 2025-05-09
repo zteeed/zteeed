@@ -51,8 +51,8 @@ Here is my favorite (unordered) tech stack to build stuff, including DevOps, Sec
 <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=flat&logo=Rancher&logoColor=white" />
 <img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=Helm&logoColor=white" />
 
-<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
-<img alt="Google Cloud" src="https://img.shields.io/badge/-Google Cloud-4285F4?style=flat&logo=Google Cloud&logoColor=white" />
+<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white" />
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" />
 <img alt="OVH" src="https://img.shields.io/badge/-OVH-123F6D?style=flat&logo=OVH&logoColor=white" />
 <img alt="3DS Outscale" src="https://img.shields.io/badge/-3DS Outscale-19233E?style=flat&logo=dassaultsystemes&logoColor=white" />
 <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=Proxmox&logoColor=white" />
@@ -65,6 +65,7 @@ Here is my favorite (unordered) tech stack to build stuff, including DevOps, Sec
 <img alt="Consul" src="https://img.shields.io/badge/-Consul-F24C53?style=flat&logo=Consul&logoColor=white" />
 <img alt="Icinga" src="https://img.shields.io/badge/-Icinga-06062C?style=flat&logo=Icinga&logoColor=white" />
 <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
 <img alt="Gitlab CI" src="https://img.shields.io/badge/-Gitlab CI-FC6D26?style=flat&logo=Gitlab&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 
@@ -73,7 +74,7 @@ Here is my favorite (unordered) tech stack to build stuff, including DevOps, Sec
 
 <img alt="Go" src="https://img.shields.io/badge/-Go-79D4FD?style=flat&logo=go&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=GNU Bash&logoColor=white"/>
+<img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white" />
