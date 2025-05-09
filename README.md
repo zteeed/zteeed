@@ -94,7 +94,6 @@ Here is my favorite (unordered) tech stack to build stuff, including DevOps, Sec
 <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/>
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white"/>
-</p>
 <br>
 
 <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch Linux-1793D1?style=flat&logo=archlinux&logoColor=white"/>
